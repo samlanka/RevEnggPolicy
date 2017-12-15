@@ -1,6 +1,6 @@
 # RevEngg_Policy
 
-The IPython notebook provides a tabular Q-learning algorithm for OpenAI FrozenLake8x8 Environment. 
+The Jupyter notebook provides a tabular Q-learning algorithm for OpenAI FrozenLake8x8 Environment. 
 The environment is modified so to make the actions determinstic. 
 This functions as a deterministic policy, gridworld environment.
 
