@@ -4,7 +4,7 @@ The IPython notebook provides a tabular Q-learning algorithm for OpenAI FrozenLa
 The environment is modified so to make the actions determinstic. 
 This functions as a deterministic policy, gridworld environment.
 
-Prerequisites: [OpenAI Gym]{https://github.com/openai/gym}
+Prerequisites: [OpenAI Gym](https://github.com/openai/gym)
 
 To find the optimal forward policy, execute the RevEngg_pol.ipynb as is.
 
