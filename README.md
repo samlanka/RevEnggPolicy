@@ -1,7 +1,7 @@
 # RevEngg_Policy
 
 The Jupyter notebook provides a tabular Q-learning algorithm for OpenAI FrozenLake8x8 Environment. 
-The environment is modified so to make the actions determinstic. 
+The environment is modified to make the actions determinstic. 
 This functions as a deterministic policy, gridworld environment.
 
 Prerequisites: [OpenAI Gym](https://github.com/openai/gym)
