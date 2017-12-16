@@ -33,4 +33,4 @@ For the reverse policy, modify the following file in your gym source folder:-
         "FHFFHFHF",
         "FFFHFFFS"
  
-Execute RevEngg_pol.ipynb to find optimal reverse policy 
+Increase the number of episodes and execute RevEngg_pol.ipynb to find optimal reverse policy 
